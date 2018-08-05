@@ -1,6 +1,6 @@
 # [Quickjack](http://samy.pl/quickjack)
 
-[media]https://www.youtube.com/watch?v=e6IQu1hcVYo[/media]
+[media]e6IQu1hcVYo[/media]
 
 **Quickjack** is an intuitive, point-and-click tool for performing advanced and covert clickjacking and frame slicing attacks.
 
